@@ -4,5 +4,5 @@ Repositório com atividades desenvolvidas durante a disciplina de Introdução �
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://valdirneto34.github.io/IAP/
+   git clone https://github.com/valdirneto34/IAP
    ```
